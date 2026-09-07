@@ -1,18 +1,21 @@
 <div align="center">
 
-  <!-- Dynamic Header Wave / Capsule Render -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,30:00f2fe,70:4facfe,100:000c24&height=220&section=header&text=PUTU%20ANANTHA%20SAPUTRA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20API%20Architecture%20%E2%80%A2%20System%20Design&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header" />
+  <!-- 1. ANIMATED HEADER WAVE (Cyberpunk Black & Neon Orange) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050505,25:7a1f00,50:ff5500,75:ff8c00,100:050505&height=230&section=header&text=PUTU%20ANANTHA%20SAPUTRA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20System%20Architecture%20%E2%80%A2%20High-Performance%20APIs&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Header Wave" />
 
-  <!-- Animated Typing SVG -->
+  <!-- 2. ANIMATED TYPING SVG (Neon Orange) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Building+Robust+%26+Scalable+Backend+Systems;Payment+Gateway+%26+RESTful+API+Integrator;Architecting+High-Performance+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&multiline=false&width=620&height=50&lines=Building+Scalable+%26+High-Performance+Backend+Systems;Architecting+RESTful+APIs+%26+Database+Engines;Clean+Architecture+%7C+Automation+%7C+High+Reliability" alt="Typing SVG" />
   </a>
 
-  <!-- Social Badges (Clean & Modern Flat Design) -->
+  <br/>
+
+  <!-- 3. SOCIAL / PROFILE LINKS -->
   <p align="center">
     <a href="https://linkedin.com/in/putu-anantha-saputra-8332533b6" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="https://instagram.com/zannstore_real" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
@@ -20,64 +23,70 @@
 
 </div>
 
----
+<!-- NEON ORANGE GLOW DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:050505,50:ff6600,100:050505&height=4" width="100%" />
 
-### // SYSTEM.SPEC (ABOUT ME)
+### // SYSTEM SPECIFICATION & OVERVIEW
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
 
 ```bash
-> anantha --status --verbose
+> anantha --profile --runtime=production
 ```
 
 ```yaml
-identity:
-  name: "Putu Anantha Saputra"
-  role: "Backend Engineer"
-  primary_focus: "API Service Architecture & Payment Gateway Systems"
+system_spec:
+  developer: "Putu Anantha Saputra"
+  discipline: "Backend Engineering & Architecture"
+  status: "Deploying high-throughput backend services"
 
-operations:
-  current_project: "High-throughput API services & payment integrations using PHP / Laravel"
-  open_to_collaborate: "Enterprise backend systems, scalable REST APIs, microservices, automation"
-  current_exploration: "Advanced Laravel internals, Node.js runtime, API security & rate limiting"
-  core_competencies: "PHP, Laravel ecosystem, Database indexing, Clean Architecture, RESTful standards"
-  trivia: "Enjoys building distributed systems and purposefully stress-testing edge cases"
+current_focus:
+  core_stack: "PHP, Laravel Ecosystem, Node.js"
+  domains: "RESTful API Architecture, Microservices, Security"
+  collaborations: "Open to backend scalability & infrastructure projects"
+  philosophy: "Write clean code, stress-test limits, automate everything"
 ```
 
----
+</td>
+    <td width="45%" align="center" valign="middle">
+      <!-- ANIMATED CODING / SERVER ILLUSTRATION -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 8px;" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
+
+<!-- NEON ORANGE GLOW DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:050505,50:ff6600,100:050505&height=4" width="100%" />
 
 ### // TECH STACK & ARSENAL
 
 <div align="center">
 
-  <!-- Backend & Core -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-
-  <br/>
-
-  <!-- Database & Infrastructure -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <!-- Interactive Skill Icons (Dark Theme) -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,nginx,docker,cloudflare,postman,git,linux&theme=dark&perline=5" alt="Tech Stack Icons" />
+  </a>
 
 </div>
 
----
+<!-- NEON ORANGE GLOW DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:050505,50:ff6600,100:050505&height=4" width="100%" />
 
-### // SYSTEM TELEMETRY & ANALYTICS
+### // LIVE TELEMETRY & REPOSITORY METRICS
 
 <div align="center">
 
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=ananthaa26&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&title_color=00f2fe&icon_color=00f2fe&text_color=c0caf5&bg_color=090d16" height="195" alt="GitHub Stats" />
+        <!-- Animated GitHub Stats Card (Black & Neon Orange) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=ananthaa26&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&title_color=ff6600&icon_color=ff6600&text_color=e6edf3&bg_color=0a0a0c&border_color=251508" height="195" alt="GitHub Stats" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthaa26&theme=tokyonight&hide_border=false&background=090D16&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE&sideLabels=C0CAF5&dates=7982A9" height="195" alt="Streak Stats" />
+        <!-- Animated Streak Stats Card (Black & Neon Orange) -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananthaa26&hide_border=false&background=0A0A0C&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideLabels=E6EDF3&dates=8B949E&border=251508" height="195" alt="Streak Stats" />
       </td>
     </tr>
   </table>
@@ -87,31 +96,37 @@ operations:
   <table border="0">
     <tr>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthaa26&layout=compact&theme=tokyonight&hide_border=false&title_color=00f2fe&text_color=c0caf5&bg_color=090d16" height="175" alt="Top Languages" />
+        <!-- Top Languages (Black & Neon Orange) -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananthaa26&layout=compact&hide_border=false&title_color=ff6600&icon_color=ff6600&text_color=e6edf3&bg_color=0a0a0c&border_color=251508" height="175" alt="Top Languages" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthaa26&theme=tokyo-night&bg_color=090d16&color=00f2fe&line=4facfe&point=ffffff&area=true&hide_border=false" height="175" alt="Activity Graph" />
+        <!-- Dynamic Activity Wave Graph (Black & Orange) -->
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananthaa26&theme=github-compact&bg_color=0a0a0c&color=ff6600&line=ff8c00&point=ffffff&area=true&hide_border=false" height="175" alt="Activity Graph" />
       </td>
     </tr>
   </table>
 
 </div>
 
----
+<!-- NEON ORANGE GLOW DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:050505,50:ff6600,100:050505&height=4" width="100%" />
 
-### // CONTRIBUTION MATRIX (SNAKE RUNNER)
+### // CONTRIBUTION MATRIX (SNAKE GAME)
 
 <div align="center">
+  <!-- Contribution Grid Snake Animation -->
   <img src="https://raw.githubusercontent.com/ananthaa26/ananthaa26/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake Animation" />
 </div>
 
----
+<!-- NEON ORANGE GLOW DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:050505,50:ff6600,100:050505&height=4" width="100%" />
 
-<!-- Footer Wave & Hit Counter -->
+<!-- ANIMATED FOOTER WAVE & VISITOR TELEMETRY -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:000c24,30:4facfe,70:00f2fe,100:090d16&height=120&section=footer" width="100%" alt="Footer" />
-
+  <br/>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ananthaa26&label=PROFILE%20VIEWS&color=00f2fe&style=flat-square" alt="Visitor Count" />
+    <img src="https://komarev.com/ghpvc/?username=ananthaa26&label=SYSTEM%20VISITORS&color=ff6600&style=flat-square" alt="Visitor Count" />
   </p>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:050505,25:7a1f00,50:ff5500,75:ff8c00,100:050505&height=130&section=footer" width="100%" alt="Footer Wave" />
 </div>
